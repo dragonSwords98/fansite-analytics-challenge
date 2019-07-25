@@ -71,6 +71,6 @@ as well as detect potential malicious IPs 'teaming up' in a DDoS and proceed to 
 ## testing
 -------
 did not approach this in a test-driven style, which I don't currently practice
-however, if I were to write these tests up, it would be sensible to have
+however, if time permitted, and I were to write these tests up, it would be sensible to have
 unit tests for each class, test each method for the good, bad, ugly, and edge cases
 and complete them with process tests, where we provide valid and invalid log files of mixed sizes to test
